@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/server.dir/src/networking.c.o CMakeFiles/server.dir/src/queue.c.o CMakeFiles/server.dir/src/connection.c.o CMakeFiles/server.dir/src/server.c.o  -o server -lpthread 
